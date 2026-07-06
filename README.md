@@ -15,11 +15,11 @@ Your task is to conduct a thorough release audit, gather execution evidence, ana
 ## Repository Structure
 
 The workspace is organized as follows:
-- [app/](file:///Users/sriman/developer/projects/internship/devops%20question%20/release-readiness-lab/app/) - Contains the Flask application, Gunicorn configuration, dependencies, Dockerfile, and unit tests.
-- [k8s/](file:///Users/sriman/developer/projects/internship/devops%20question%20/release-readiness-lab/k8s/) - Contains the Kubernetes deployment, service, and configuration manifests.
-- [scripts/](file:///Users/sriman/developer/projects/internship/devops%20question%20/release-readiness-lab/scripts/) - Contains helper deployment scripts.
-- [docs/](file:///Users/sriman/developer/projects/internship/devops%20question%20/release-readiness-lab/docs/) - Architectural overview and release history.
-- [release-readiness-pack/](file:///Users/sriman/developer/projects/internship/devops%20question%20/release-readiness-lab/release-readiness-pack/) - The folder where your deliverables **must** be created.
+- [app/](./app/) - Contains the Flask application, Gunicorn configuration, dependencies, Dockerfile, and unit tests.
+- [k8s/](./k8s/) - Contains the Kubernetes deployment, service, and configuration manifests.
+- [scripts/](./scripts/) - Contains helper deployment scripts.
+- [docs/](./docs/) - Architectural overview and release history.
+- [release-readiness-pack/](./release-readiness-pack/) - The folder where your deliverables **must** be created.
 
 ---
 
